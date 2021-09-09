@@ -16,10 +16,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.developedbyvaibhav.tech/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="devboyarif" height="30" width="40" /></a>
-<a href="https://twitter.com/real_shanu" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="devboyarif" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shanuv000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/devboyarif" height="30" width="40" /></a>
-<a href="https://www.facebook.com/shanuv000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devboyarif" height="30" width="40" /></a>
+<a href="https://www.developedbyvaibhav.tech/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="devshanu" height="30" width="40" /></a>
+<a href="https://twitter.com/real_shanu" target="blank"><img align="center" src="https://www.vectorlogo.
+zone/logos/twitter/twitter-official.svg" alt="devshanu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shanuv000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/devshanu" height="30" width="40" /></a>
+<a href="https://www.facebook.com/shanuv000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devshanu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -91,13 +92,7 @@
         </a>
         <br>Livewire
     </td>
-    <td align="center" width="96">
-        <a href="#alpinejs">
-            <img src="https://seeklogo.com/images/A/alpine-js-logo-21F4169EAB-seeklogo.com.png" width="48"
-                height="48" alt="alpinejs" />
-        </a>
-        <br>Alpine JS
-    </td>
+   
   </tr>
    <tr>
       <td align="center" width="96">
@@ -130,25 +125,20 @@
       </a>
       <br>Postman
     </td>
-      <td align="center" width="96">
-      <a href="#vuepress" >
-        <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>VuePress
-    </td>
+     
   </tr>
 </table>
 
 ---
-<details>
   <summary> ✌️ My GitHub Analytics </summary>
-<p><img width="100%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devboyarif&show_icons=true&locale=en&layout=compact&theme=radical" alt="devboyarif" /></p>
-<p>&nbsp;<img width="100%" height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=devboyarif&show_icons=true&locale=en&theme=radical" alt="devboyarif" /></p>
-<p><img width="100%" height="300px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=devboyarif&theme=radical" alt="devboyarif" /></p>
-<p><img width="100%" height="350px" alt="Arif's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=devboyarif&theme=github" /></p>
-</details>
+<p><img width="100%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?
+username=shanuv000&show_icons=true&locale=en&layout=compact&theme=radical" alt="devboyarif" /></p>
+<p>&nbsp;<img width="100%" height="250px" align="center" src="https://github-readme-stats.vercel.app/api?
+username=shanuv000&show_icons=true&locale=en&theme=radical" alt="devboyarif" /></p>
+<p><img width="100%" height="300px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?
+user=shanuv000&theme=radical" alt="devboyarif" /></p>
+<p><img width="100%" height="350px" alt="Arif's Activity Graph" src="https://activity-graph.herokuapp.com/graph?
+username=shanuv000&theme=github" /></p>
 
 ----
-Credits: [devboyarif](https://github.com/devboyarif)
 
-Last Edited on: 3/09/2021

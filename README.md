@@ -1,25 +1,26 @@
 <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
-<h1 align="center">Hi 👋, I'm Arif</h1>
-<h3 align="center">I am a Full Stack Web Developer from Dhaka, Bangladesh. I'm working on Laravel, vue.js, nuxt.js & REST API.</h3>
+<h1 align="center">Hi 👋, I'm Vaibhav</h1>
+<h3 align="center">I am a Full Stack Web Developer from India. I'm working on React, React Native, next.js & REST API.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devboyarif&label=Profile%20views&color=0e75b6&style=flat" alt="devboyarif" /> </p>
 
-- 🔭 I’m currently working on [Zakirsoft](https://github.com/zakirsoft)
+- 🔭 I’m currently working on [Preferwork](https://preferwork.com/)
 
 - 🌱 I’m currently learning **Cloud Server, Typescript,**
 
-- 👨‍💻 All of my projects are available at [https://devarif.co/portfolio](https://devarif.co/portfolio)
+- 👨‍💻 All of my projects are available at [https://developedbyvaibhav.tech](https://www.developedbyvaibhav.tech/)
 
 
-- 📫 How to reach me **devboyarif@gmail.com**
+- 📫 How to reach me **shanuvatika@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/devboyarif" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="devboyarif" height="30" width="40" /></a>
-<a href="https://twitter.com/devboyarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devboyarif" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/devboyarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/devboyarif" height="30" width="40" /></a>
-<a href="https://fb.com/devboyarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devboyarif" height="30" width="40" /></a>
-  <a href="https://join.skype.com/invite/YVywcVEB1lql" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="devboyarif" height="30" width="40" /></a>
+<a href="https://www.developedbyvaibhav.tech/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="devboyarif" height="30" width="40" /></a>
+<a href="https://twitter.com/real_shanu" target="blank"><img align="center" src="https://raw.githubusercontent.
+com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devboyarif" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shanuv000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/devboyarif" height="30" width="40" /></a>
+<a href="https://www.facebook.com/shanuv000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devboyarif" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -52,16 +53,11 @@
     </td>
      <td align="center" width="96">
       <a href="#vuejs">
-        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="48" height="48" alt="Vuejs" />
       </a>
-      <br>Vue JS
+      <br>React
     </td>
-     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="48" height="48" alt="Nuxtjs" />
-      </a>
-      <br>Nuxt JS
-    </td>
+     
   </tr>
 
   <tr>

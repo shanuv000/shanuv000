@@ -8,6 +8,10 @@
 		<img src="https://raw.githubusercontent.com/Wrapperup/Wrapperup/master/good-times.svg">
 	<br>
 </div>
+<hr/>
+<details>
+ <summary>Stats & more...</summary>
+ 
 
 
 <h1 align="center"> 📊 Stats: </h1>
@@ -90,7 +94,7 @@ username=shanuv000&layout=compact&bg_color=0d1117&text_color=FFF&border_color=44
     <img src="https://img.shields.io/badge/express.js-000000?&style=for-the-badge&logo=Express&logoColor=white">
   </a>
 </p>
-
+</details>
 <h1 align="center"> 🤝 Socials: </h1>
   <p align="center">
     <a href="https://twitter.com/raklaptudirm">

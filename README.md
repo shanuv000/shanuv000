@@ -34,7 +34,7 @@ username=shanuv000&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
   <br>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=raklaptudirm&theme=react-dark&hide_border=true">
+    <img src="https://activity-graph.herokuapp.com/graph?username=shanuv000&theme=react-dark&hide_border=true">
   </a>
 </p>
 

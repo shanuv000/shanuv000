@@ -133,15 +133,13 @@ zone/logos/twitter/twitter-official.svg" alt="devshanu" height="30" width="40" /
 <details>
   <summary> ✌️ My GitHub Analytics </summary>
 <p><img width="100%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?
-username=shanuv000&show_icons=true&locale=en&layout=compact&theme=radical" alt="devboyarif" /></p>
+username=shanuv000&show_icons=true&locale=en&layout=compact&theme=radical" alt="shanuv000" /></p>
 <p>&nbsp;<img width="100%" height="250px" align="center" src="https://github-readme-stats.vercel.app/api?
-username=shanuv000&show_icons=true&locale=en&theme=radical" alt="devboyarif" /></p>
-<p><img width="100%" height="300px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=devboyarif&theme=radical" alt="devboyarif" /></p>
-<p><img width="100%" height="350px" alt="Arif's Activity Graph" src="https://activity-graph.herokuapp.com/graph?
+username=shanuv000&show_icons=true&locale=en&theme=radical" alt="shanuv000" /></p>
+<p><img width="100%" height="300px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?
+user=shanuv000&theme=radical" alt="shanuv000" /></p>
+<p><img width="100%" height="350px" alt="Vaibhav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?
 username=shanuv000&theme=github" /></p>
 </details>
 
-----
-Credits: [devboyarif](https://github.com/devboyarif)
 
-Last Edited on: 3/09/2021

@@ -1,9 +1,10 @@
 <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
-<h1 align="center">Hi 👋, I'm Vaibhav</h1>
+<h1 align="center">Hi 👋, I'm Shanu</h1>
 <h3 align="center">I am a Full Stack Web Developer from India. I'm working on React, React Native, next.js & REST API.
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devboyarif&label=Profile%20views&color=0e75b6&style=flat" alt="devboyarif" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?
+username=shanuv000&label=Profile%20views&color=0e75b6&style=flat" alt="shanuv000" /> </p>
 
 - 🔭 I’m currently working on [Preferwork](https://preferwork.com/)
 

@@ -3,6 +3,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);System.out.println(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22);printf(%22Hello%2C%20World!%22);fmt.Println(%22Hello%2C%20World!%22);println!(%22Hello%2C%20World!%22);cout%20%3C%3C%20%22Hello%2C%20World!%22&center=true&size=27&width=550">
   </a>
 </h1>
+<div align="center">
+	<br>
+		<img src="https://raw.githubusercontent.com/Wrapperup/Wrapperup/master/good-times.svg">
+	<br>
+</div>
 
 
 <h1 align="center"> 📊 Stats: </h1>
@@ -111,10 +116,7 @@ username=shanuv000&layout=compact&bg_color=0d1117&text_color=FFF&border_color=44
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=shanuv000&style=for-the-badge">
 <a>
 
-  
-  
- <br>
-<div align="center">
+<div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>

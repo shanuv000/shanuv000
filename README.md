@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?
-username=shanuv000&theme=onedark&column=8&no-frame=true&no-bg=true">
+username=shanuv000&theme=onedark&column=6&no-frame=true&no-bg=true">
   </a>
 </p>
 
@@ -38,7 +38,7 @@ username=shanuv000&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
 </p>
 
- 
+
 
 <h1 align="center"> 🔧 Skills & Tools: </h1>
 
@@ -119,3 +119,4 @@ username=shanuv000&bg_color=0d1117&text_color=FFF&border_color=444">
 <a href="https://github.com/ESKYoung/shields-io-visitor-counter">
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=shanuv000&style=for-the-badge">
 <a>
+a

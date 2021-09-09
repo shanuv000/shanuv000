@@ -4,12 +4,6 @@
   </a>
 </h1>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?
-username=shanuv000&theme=onedark&column=6&no-frame=true&no-bg=true">
-  </a>
-</p>
 
 <h1 align="center"> 📊 Stats: </h1>
 
@@ -22,10 +16,7 @@ username=shanuv000&theme=onedark&column=6&no-frame=true&no-bg=true">
 username=shanuv000&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
   </a>
   <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?
-username=shanuv000&bg_color=0d1117&text_color=FFF&border_color=444">
-  </a>
+ 
 </p>
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
@@ -119,4 +110,3 @@ username=shanuv000&bg_color=0d1117&text_color=FFF&border_color=444">
 <a href="https://github.com/ESKYoung/shields-io-visitor-counter">
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=shanuv000&style=for-the-badge">
 <a>
-a

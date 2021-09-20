@@ -97,16 +97,16 @@ username=shanuv000&layout=compact&bg_color=0d1117&text_color=FFF&border_color=44
 </details>
 <h1 align="center"> 🤝 Socials: </h1>
   <p align="center">
-    <a href="https://twitter.com/raklaptudirm">
+    <a href="https://twitter.com/real_shanu">
       <img src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white">
     </a>
     <a href="https://stackoverflow.com/users/story/14553594">
       <img src="https://img.shields.io/badge/stack%20overflow-F58025?&style=for-the-badge&logo=stack%20overflow&logoColor=white">
     </a>
-    <a href="https://raklaptudirm.medium.com/">
+    <a href="https://medium.com/@shanuvatika">
       <img src="https://img.shields.io/badge/medium-000000?&style=for-the-badge&logo=medium&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/rak-laptudirm-09b444211/">
+    <a href="https://www.linkedin.com/in/shanuv000/">
       <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </p>

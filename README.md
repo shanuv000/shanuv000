@@ -11,14 +11,12 @@
 <hr/>
 <details>
  <summary>Stats & more...</summary>
- 
-
 
 <h1 align="center"> 📊 Stats: </h1>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=raklaptudirm&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=shanuv000&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?
@@ -29,16 +27,12 @@ username=shanuv000&layout=compact&bg_color=0d1117&text_color=FFF&border_color=44
 </p>
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=shanuv000&theme=react&background=0d1117&border=666">
-  </a>
+ 
   <br>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=shanuv000&theme=react-dark&hide_border=true">
   </a>
 </p>
-
-
 
 <h1 align="center"> 🔧 Skills & Tools: </h1>
 
@@ -114,8 +108,6 @@ username=shanuv000&layout=compact&bg_color=0d1117&text_color=FFF&border_color=44
 
 <hr>
 
-
-
 <a href="https://github.com/ESKYoung/shields-io-visitor-counter">
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=shanuv000&style=for-the-badge">
 <a>
@@ -146,5 +138,4 @@ username=shanuv000&layout=compact&bg_color=0d1117&text_color=FFF&border_color=44
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 
- 
 </div>

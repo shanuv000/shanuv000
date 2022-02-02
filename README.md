@@ -91,7 +91,7 @@ username=shanuv000&layout=compact&bg_color=0d1117&text_color=FFF&border_color=44
 </details>
 <h1 align="center"> 🤝 Socials: </h1>
   <p align="center">
-    <a href="https://twitter.com/real_shanu">
+    <a href="https://twitter.com/shanuv000">
       <img src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white">
     </a>
     <a href="https://stackoverflow.com/users/story/14553594">

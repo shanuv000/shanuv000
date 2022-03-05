@@ -107,11 +107,13 @@ username=shanuv000&layout=compact&bg_color=0d1117&text_color=FFF&border_color=44
 </h1>
 
 <hr>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanuv000&show_icons=true&locale=en" alt="mszeles" /></p>
+<hr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanuv000&show_icons=true&locale=en&layout=compact" alt="mszeles" /></p>
+<hr>
 <a href="https://github.com/ESKYoung/shields-io-visitor-counter">
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=shanuv000&style=for-the-badge">
 <a>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanuv000&show_icons=true&locale=en" alt="mszeles" /></p>
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>

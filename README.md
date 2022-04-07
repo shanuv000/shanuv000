@@ -4,7 +4,7 @@
   </a>
 </h1>
 <div align="center">
-	<p align="left"> <a href="https://twitter.com/shanuv000" target="blank"><img src="https://img.shields.io/twitter/follow/shanuv000?logo=twitter&style=for-the-badge" alt="mszeles" /></a> </p>
+	<p align="left"> <a href="https://twitter.com/shanuv0000" target="blank"><img src="https://img.shields.io/twitter/follow/shanuv000?logo=twitter&style=for-the-badge" alt="mszeles" /></a> </p>
 	<br>
 		<img src="https://raw.githubusercontent.com/Wrapperup/Wrapperup/master/good-times.svg">
 	<br>

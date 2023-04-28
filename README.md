@@ -111,7 +111,8 @@ username=shanuv000&layout=compact&bg_color=0d1117&text_color=FFF&border_color=44
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanuv000&show_icons=true&locale=en" alt="mszeles" /></p>
 <hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanuv000&show_icons=true&locale=en&layout=compact" alt="mszeles" /></p>
-<hr>![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shanuv000&theme=radical)
+<hr>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shanuv000&theme=radical)
 <hr>
 <a href="https://github.com/ESKYoung/shields-io-visitor-counter">
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=shanuv000&style=for-the-badge">

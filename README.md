@@ -113,9 +113,12 @@ username=shanuv000&layout=compact&bg_color=0d1117&text_color=FFF&border_color=44
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanuv000&show_icons=true&locale=en&layout=compact" alt="mszeles" /></p>
 <hr>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shanuv000&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanuv000&layout=compact&theme=radical&langs_count=6)
+![Anurag's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shanuv000&layout=compact&theme=radical)
+
 <hr>
 <a href="https://github.com/ESKYoung/shields-io-visitor-counter">
-  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=shanuv000&style=for-the-badge">
+
 <a>
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>

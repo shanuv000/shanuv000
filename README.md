@@ -112,9 +112,18 @@ username=shanuv000&layout=compact&bg_color=0d1117&text_color=FFF&border_color=44
 <hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanuv000&show_icons=true&locale=en&layout=compact" alt="mszeles" /></p>
 <hr>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shanuv000&theme=radical)
+
+### ⭐️ Bonus Section: My GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanuv000&show_icons=true&theme=radical&count_private=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanuv000&layout=compact&theme=radical&langs_count=6)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shanuv000&theme=radical)
+
 ![Anurag's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shanuv000&layout=compact&theme=radical)
+
+![Code Frequency](https://github-readme-stats.vercel.app/api?username=shanuv000&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=Code%20Commit%20Frequency%20-%20Past%20Year&hide_title=true&hide_border=true&line_height=24)
 
 <hr>
 <a href="https://github.com/ESKYoung/shields-io-visitor-counter">

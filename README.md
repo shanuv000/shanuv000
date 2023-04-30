@@ -6,8 +6,7 @@
 <div align="center">
 	
 	
-	<h2>
-		Vaibhav Kumar is a seasoned React JS developer with more than 3 years of experience in the field. With his expertise in Redux, Router, Tailwind, and NodeJs, Vaibhav has created numerous projects in various industries.
+	<h2>Vaibhav Kumar is a seasoned React JS developer with more than 3 years of experience in the field. With his expertise in Redux, Router, Tailwind, and NodeJs, Vaibhav has created numerous projects in various industries.
 
 Vaibhav's skill set and experience have enabled him to develop projects such as e-commerce platforms, 3D portfolios, and other web applications. He has a keen eye for detail, and his projects always meet the highest standards of quality and functionality.
 

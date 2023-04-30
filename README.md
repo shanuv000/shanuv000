@@ -1,9 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"></a>
     <img src="./cover.jpg">
-
-
-
   
 </h1>
 <div align="center">

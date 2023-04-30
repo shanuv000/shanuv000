@@ -1,5 +1,5 @@
 <h1 align="center"> <img src="./cover.jpg">
-  <a href="https://git.io/typing-svg"></a>
+
 
 </h1>
 <div align="center">

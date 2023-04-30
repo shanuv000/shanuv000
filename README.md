@@ -5,7 +5,7 @@
 </h1>
 <div align="center">
 	
-	
+	<p align="left"> <a href="https://twitter.com/shanuv000" target="blank"><img src="https://img.shields.io/twitter/follow/shanuv000?logo=twitter&style=for-the-badge" alt="mszeles" /></a> </p><br>
 	<h2>Vaibhav Kumar is a seasoned React JS developer with more than 3 years of experience in the field. With his expertise in Redux, Router, Tailwind, and NodeJs, Vaibhav has created numerous projects in various industries.
 
 Vaibhav's skill set and experience have enabled him to develop projects such as e-commerce platforms, 3D portfolios, and other web applications. He has a keen eye for detail, and his projects always meet the highest standards of quality and functionality.
@@ -13,7 +13,7 @@ Vaibhav's skill set and experience have enabled him to develop projects such as 
 As a React JS developer, Vaibhav is adept at creating scalable, efficient, and reliable applications. His ability to work collaboratively and communicate effectively with his team makes him a valuable asset to any project. 
 
 Vaibhav is constantly learning and exploring new technologies to enhance his skills and stay up-to-date with the latest trends in the industry. His dedication to his craft and passion for creating outstanding projects make him a sought-after developer.</h2>
-	<br><p align="left"> <a href="https://twitter.com/shanuv000" target="blank"><img src="https://img.shields.io/twitter/follow/shanuv000?logo=twitter&style=for-the-badge" alt="mszeles" /></a> </p><br>
+	<br>
 </div>
 <hr/>
 <details>

@@ -5,7 +5,7 @@
 </h1>
 <div align="center">
 	
-	<br>
+	
 	<h2>
 		Vaibhav Kumar is a seasoned React JS developer with more than 3 years of experience in the field. With his expertise in Redux, Router, Tailwind, and NodeJs, Vaibhav has created numerous projects in various industries.
 

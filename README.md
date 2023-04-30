@@ -1,4 +1,5 @@
-<h1 align="center"> <img src="./cover.jpg">
+<h1 align="center"> 
+	<img src="./cover.jpg">
 
 
 </h1>

@@ -1,9 +1,9 @@
-<h1 align="center"> 
+
+<div align="center"><h1 align="center"> 
 	<img src="./cover.jpg">
 </h1>
-<div align="center">
 	
-	<br>
+	<p align="left"> <a href="https://twitter.com/shanuv000" target="blank"><img src="https://img.shields.io/twitter/follow/shanuv000?logo=twitter&style=for-the-badge" alt="mszeles" /></a> </p><br>
 	<h2>Vaibhav Kumar is a seasoned React JS developer with more than 3 years of experience in the field. With his expertise in Redux, Router, Tailwind, and NodeJs, Vaibhav has created numerous projects in various industries.
 
 Vaibhav's skill set and experience have enabled him to develop projects such as e-commerce platforms, 3D portfolios, and other web applications. He has a keen eye for detail, and his projects always meet the highest standards of quality and functionality.

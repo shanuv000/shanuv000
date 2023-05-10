@@ -1,6 +1,8 @@
 
 <div align="center"><h1 align="center"> 
 	<img src="./cover.jpg">
+	<a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/b2a0b896ef724e68a2364c727e8e9e6e.png?r=20z" width="400" alt="Chris Bongers's Dev Card"/></a>
+
 </h1>
 	
 	<p align="left"> <a href="https://twitter.com/shanuv000" target="blank"><img src="https://img.shields.io/twitter/follow/shanuv000?logo=twitter&style=for-the-badge" alt="mszeles" /></a> </p><br>

@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I enjoy creating beautiful and responsive web appl
 
 ## 💼 Experience
 
-- **Company**: Freelancing
+- **Company**: Your Current Company
   - *Role*: ReactJS Developer
   - *Duration*: Date Started - Present
 
@@ -29,14 +29,29 @@ Welcome to my GitHub profile! I enjoy creating beautiful and responsive web appl
 
 ![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs&theme=radical)
 
+## 📚 Featured Repositories
+
+### [Project Name 1](https://github.com/your-username/project-name-1)
 
 Brief description of the project and its purpose.
 
-## 📫 Let's Connect
+### [Project Name 2](https://github.com/your-username/project-name-2)
 
-Feel free to reach out for collaboration or just to say hi! 😊
+Brief description of the project and its purpose.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shanuv000/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/shanuv000)
+### [Project Name 3](https://github.com/your-username/project-name-3)
 
-Happy coding! 🚀
+Brief description of the project and its purpose.
+
+## 🏆 Achievements
+
+- **ReactJS Ninja**: Awarded for excellence in ReactJS development.
+- **CSS Wizard**: Recognized for outstanding achievements in CSS styling.
+
+## 📊 Coding Stats
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   10 hrs 25 mins  ███████████████░░░░░░░░░░   60.00 % 
+CSS          5 hrs 32 mins   ████████░░░░░░░░░░░░░░░░░   31.97 % 
+HTML         1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 

@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I enjoy creating beautiful and responsive web appl
 
 ## 💼 Experience
 
-- **Company**: Your Current Company
+- **Company**: Freelancing
   - *Role*: ReactJS Developer
   - *Duration*: Date Started - Present
 
@@ -29,17 +29,6 @@ Welcome to my GitHub profile! I enjoy creating beautiful and responsive web appl
 
 ![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs&theme=radical)
 
-## 📚 Featured Repositories
-
-### [Project Name 1](https://github.com/your-username/project-name-1)
-
-Brief description of the project and its purpose.
-
-### [Project Name 2](https://github.com/your-username/project-name-2)
-
-Brief description of the project and its purpose.
-
-### [Project Name 3](https://github.com/your-username/project-name-3)
 
 Brief description of the project and its purpose.
 

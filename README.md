@@ -44,8 +44,8 @@
 
 <br clear="both">
 
-[[<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />])
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fshanuv000)
+[[<img src="https://raw.githubusercontent.com/shanuv000/shanuv000/output/snake.svg" alt="Snake animation" />])
+
 
 
 

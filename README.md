@@ -44,8 +44,10 @@
 
 <br clear="both">
 
-[<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />](https://img.shields.io/twitter/url
-)https://img.shields.io/twitter/shanuv000
+[[<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />](https://img.shields.io/twitter/url
+)https://img.shields.io/twitter/shanuv000](https://img.shields.io/github/repo-size/shanuv000/Chess
+)https://img.shields.io/github/repo-size/shanuv000/Chess
+
 
 
 ###

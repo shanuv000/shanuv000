@@ -45,7 +45,7 @@
 <br clear="both">
 
 [[<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />])
-![GitHub repo size](https://img.shields.io/github/repo-size/shanuv000/Promptopia)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fshanuv000)
 
 
 

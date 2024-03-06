@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Vaibhav and I'm a Fullstack developer from India</h2>
+<h2 align="left">Hi 👋! My name is Vaibhav and I'm a Fullstack developer</h2>
 
 ###
 
@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-[[<img src="https://raw.githubusercontent.com/shanuv000/shanuv000/output/snake.svg" alt="Snake animation" />])
+
 
 
 

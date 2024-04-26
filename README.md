@@ -25,6 +25,9 @@ Seasoned AI and full-stack engineer with over 3 years of experience in applicati
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=cpp" alt="icon" alt="C++" />  
       <br>C++  
     </td>  
+      <td align='center' width="80">
+          [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+      </td>
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=java" alt="Java" />  
       <br>Java  

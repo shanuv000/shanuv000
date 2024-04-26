@@ -1,20 +1,16 @@
 <h1 align="center" title="I'm happy to see you here">Welcome to @shanuv000</h1>
 
-# Summary
+## Summary
 
-Seasoned AI and full-stack engineer with over 3 years of experience in application and website design, development, testing, and deployment. Proven skills in application development and system configuration. So frequently acknowledged for customer-friendly service.
+I'm a skilled AI and full-stack engineer with a focus on building intelligent applications. I help bring innovative solutions to life using machine learning, web development, and cloud technologies.
 
+## Skills
 
-# Skills
-
-    🔹 Machine Learning Libraries (Tensorflow, Keras, Caffe, YOLO...)
-    🔹 OCR & ALPR | Object Detection & Tracking | NLP & Chatbot
-    🔹 Full-stack (Backend: Express, Django, ASP.NET, Spring Boot, Laravel...
-                   Frontend: React, Vue, Angular, Next, Electron ...
-                   DB: PostgreSQL, MsSQL, MySql, MongoDB...)
-    🔹 Devices(Raspberry pi,  Jetson nano, TX1, TX2...)
-    🔹 Azure, AWS, Docker, Kubernetes, Terraform, Git, CI/CD
-    
+- **Languages:** C++, Python, Java, C#, Javascript, PHP, TypeScript
+- **AI & ML:** TensorFlow, Keras, PyTorch, OpenCV, OpenAI, YOLO
+- **Web Development:** React, Vue, Angular, Next.js, Express, Nestjs, Django
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Cloud & DevOps:** Azure, AWS, Docker, Kubernetes, Git
 
 # Languages and Tools
 
@@ -238,7 +234,10 @@ Seasoned AI and full-stack engineer with over 3 years of experience in applicati
 </div>
 <br/>    
   
-# 📊 GitHub Stats:  
+## 📊 GitHub Stats:  
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=shanuv0002&count_private=true&show_icons=true&theme=react"  alt=""/> <img width="425" src="https://streak-stats.demolab.com/?user=shanuv000&theme=react"  alt=""/><br>  
  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=shanuv000&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" /><br><br>
 <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanuv000&layout=donut" alt=""/><br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanuv000&langs_count=8)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/shanuv000/github-readme-stats)

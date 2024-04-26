@@ -33,7 +33,10 @@ Seasoned AI and full-stack engineer with over 3 years of experience in applicati
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=java" alt="Java" />  
       <br>Java  
     </td>  
- 
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=cs" alt="C#" />  
+      <br>C#  
+    </td> 
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=python" alt="Python" />  
       <br>Python  

@@ -1,5 +1,9 @@
 <h1 align="center" title="I'm happy to see you here">Welcome to @shanuv000</h1>
 
+## Summary
+
+I'm a skilled AI and full-stack engineer with a focus on building intelligent applications. I help bring innovative solutions to life using machine learning, web development, and cloud technologies.
+
 ## Contact
 
 [![Gmail Badge](https://img.shields.io/badge/-proshanu@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:proshanu@gmail.com "Connect via Email")
@@ -7,10 +11,6 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Vaibhav-orange?style=flat&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/8705169/vaibhav-kumar)
 [![Kaggle Badge](https://img.shields.io/badge/-Vaibhav-blue?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/shanuv000/ "Connect on Kaggle")
 [![Twitter Badge](https://img.shields.io/badge/-Vaibhav-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/shanuv000 "Follow on Twitter")
-
-## Summary
-
-I'm a skilled AI and full-stack engineer with a focus on building intelligent applications. I help bring innovative solutions to life using machine learning, web development, and cloud technologies.
 
 ## Skills
 

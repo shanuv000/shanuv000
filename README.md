@@ -1,10 +1,12 @@
 <h1 align="center" title="I'm happy to see you here">Welcome to @shanuv000</h1>
-[![Gmail Badge](https://img.shields.io/badge/-vatsal.pict17%40sot.pdpu.ac.in-red?style=flat&logo=gmail&logoColor=white)](mailto:proshanu@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-vatsal--parsaniya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shanuv000/ "Connect on LinkedIn")
-<!-- [![Stackoverflow Badge](https://img.shields.io/badge/-Vaibhav-orange?style=flat&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/story/vatsalparsaniya "") -->
-[![Kaggle Badge](https://img.shields.io/badge/-Vaibhav-blue?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/shanuv000/ "Connect on Kaggle")
-[![Twitter Badge](https://img.shields.io/badge/-Vaibhav-00acee?style=flat&logo=Twitter&logoColor=white)]([https://twitter.com/VatsalParsaniya](https://twitter.com/shanuv000) "Follow on Twitter")
 
+## Contact
+
+[![Gmail Badge](https://img.shields.io/badge/-proshanu@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:proshanu@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Vaibhav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shanuv000/ "Connect on LinkedIn")
+[![Stackoverflow Badge](https://img.shields.io/badge/-Vaibhav-orange?style=flat&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/8705169/vaibhav-kumar)
+[![Kaggle Badge](https://img.shields.io/badge/-Vaibhav-blue?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/shanuv000/ "Connect on Kaggle")
+[![Twitter Badge](https://img.shields.io/badge/-Vaibhav-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/shanuv000 "Follow on Twitter")
 
 ## Summary
 
@@ -244,6 +246,3 @@ I'm a skilled AI and full-stack engineer with a focus on building intelligent ap
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=shanuv0002&count_private=true&show_icons=true&theme=react"  alt=""/> <img width="425" src="https://streak-stats.demolab.com/?user=shanuv000&theme=react"  alt=""/><br>  
  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=shanuv000&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" /><br><br>
 <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanuv000&layout=donut" alt=""/><br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanuv000&langs_count=8)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/shanuv000/github-readme-stats)

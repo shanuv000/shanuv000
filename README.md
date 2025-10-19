@@ -1,96 +1,97 @@
 <h1 align="center">👋 Hi, I'm Vaibhav Kumar</h1>
-<h3 align="center">🚀 AI & Full-Stack Engineer | Architecting Intelligent Systems</h3>
+<h3 align="center">🚀 AI & Full-Stack Engineer | Building Intelligent Systems that Scale</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shanuv000/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:proshanu@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/shanuv000"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/shanuv000"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shanuv000/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square"/></a>
+  <a href="mailto:proshanu@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=flat-square"/></a>
+  <a href="https://twitter.com/shanuv000"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=x&logoColor=white&style=flat-square"/></a>
+  <a href="https://www.kaggle.com/shanuv000"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=flat-square"/></a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I’m an **AI & Full-Stack Engineer** passionate about designing intelligent, reliable, and scalable software systems.  
-My work bridges the gap between **machine learning models** and **real-world applications**, with a focus on data efficiency and performance.
+I’m an **AI & Full-Stack Engineer** passionate about merging **intelligence, scalability, and design**.  
+I specialize in crafting **AI-powered web platforms**, deploying ML pipelines, and orchestrating cloud systems with clean, sustainable architecture.
 
-- 💡 Building AI-powered products from prototype to deployment  
-- 🌐 Developing high-performance web applications with clean architecture  
-- ☁️ Architecting solutions on **AWS** and **Azure**  
-- 🤖 Experimenting with state-of-the-art computer vision & NLP models  
-- 🧭 Mentoring and guiding teams in ML practices
-
----
-
-## ⚙️ Tech Stack
-
-### 🤖 **AI / ML**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?logo=opencv&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
-
-### 🌐 **Frontend**
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-
-### ⚙️ **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-
-### ☁️ **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+- 🌐 Developing full-stack solutions with **Next.js**, **Node.js**, and **PostgreSQL**  
+- 🤖 Applying **Machine Learning** in real-world computer vision and NLP projects  
+- ☁️ Scaling infrastructures with **AWS**, **Azure**, and **Kubernetes**  
+- 🧩 Integrating AI agents into mobile/web products  
+- 🎯 Focused on building products that make intelligence accessible  
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ My Tech Stack
+
+| Domain | Tools & Technologies |
+|--------|----------------------|
+| **AI & ML** | Python, PyTorch, TensorFlow, OpenCV, Keras, FastAPI |
+| **Frontend** | React, Next.js, TypeScript, TailwindCSS, Framer Motion |
+| **Backend** | Node.js, NestJS, Django, PostgreSQL, Redis |
+| **DevOps / Cloud** | AWS, Azure, Docker, Kubernetes, GitHub Actions |
+| **Others** | REST, GraphQL, LangChain, Firebase, Supabase |
+
+---
+
+## 📈 GitHub Stats & Activity
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shanuv000&show_icons=true&hide_border=true&theme=transparent" alt="Vaibhav's GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=shanuv000&theme=transparent&hide_border=true" alt="Vaibhav's Streak Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shanuv000&show_icons=true&theme=transparent&hide_border=true" alt="Vaibhav's GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=shanuv000&theme=transparent&hide_border=true" alt="Contribution Streak"/>
   <br><br>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shanuv000&theme=github-compact&hide_border=true" alt="Activity Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shanuv000&theme=github-compact&hide_border=true" alt="Contribution Graph"/>
   <br><br>
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanuv000&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
 </div>
 
 ---
 
+## 🚀 Featured Projects
+
+Here are some highlights from my recent work:
+
+- **IntelliCam** – Real-time object detection engine powered by YOLOv8 & FastAPI  
+- **NeuroNode** – Distributed LLM microservice platform integrating LangChain  
+- **VisionEdge** – Edge-deployable computer vision pipeline using TensorFlow Lite  
+- **HaamroGhar** – Scalable homestay booking web app using Next.js + Supabase  
+
+> *More projects on my [GitHub Repositories](https://github.com/shanuv000?tab=repositories)*
+
+---
+
 ## 🏆 Achievements
 
-- 🥇 **Winner:** XYZ AI Hackathon 2023  
-- ✍️ **Author:** 50K+ reads on Medium (AI & Cloud topics)  
-- 💼 **Experience:** 5+ years in AI & full-stack systems  
-- 🔓 **Contributor:** OpenCV and ML open-source projects  
+- 🥇 **Winner** – XYZ AI Hackathon 2023  
+- ✍️ **Author** – 50K+ Medium views on AI, Cloud & DevOps articles  
+- 👨‍💻 **Experience** – 5+ years in AI-driven systems & software design  
+- 🔓 **Contributor** – OpenCV and other open-source AI frameworks  
 
 ---
 
-## 🔍 Currently Exploring
+## ⚡ Currently Exploring
 
-- 🧬 Generative AI & LLM Engineering  
-- 📱 On-device ML with TensorFlow Lite  
-- 🧠 Neural Architecture Search (NAS)  
-- ⚡ Real-time Computer Vision on Edge Devices  
+- 🧬 Large Language Models & Generative AI  
+- 📱 On-device ML (TensorFlow Lite / Core ML)  
+- 🧠 Neural Architecture Optimization  
+- 🦾 AI-augmented developer tools using LangChain agents  
 
 ---
 
-## 🌟 Let’s Connect
+## 🌐 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shanuv000/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:proshanu@gmail.com"><img src="https://img.shields.io/badge/Say%20Hi!-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shanuv000/"><img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:proshanu@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=shanuv000&label=Visitors&countColor=%23263759&style=flat-square" />
+</p>
+
+---
+
+<p align="center">
+  <sub>💡 Crafted with precision & passion — © 2025 Vaibhav Kumar</sub>
 </p>

@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/shanuv000/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square"/></a>
   <a href="mailto:proshanu@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=flat-square"/></a>
-  <a href="https://twitter.com/shanuv000"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=x&logoColor=white&style=flat-square"/></a>
+  <a href="https://twitter.com/sh4nuoo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=x&logoColor=white&style=flat-square"/></a>
   <a href="https://www.kaggle.com/shanuv000"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=flat-square"/></a>
 </p>
 

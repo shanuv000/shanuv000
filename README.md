@@ -63,12 +63,12 @@ Backend-first engineer who ships production systems. I build with **Node.js**, *
 ### 🌐 urTechy Blogs — Production Content Platform
 > Next.js 14 · SSG + ISR · 25+ API routes · Hygraph CMS · Apollo Client · Cloudinary · Sentry monitoring · Live at [blog.urtechy.com](https://blog.urtechy.com)
 
-<a href="https://github.com/shanuv000/vk_blog"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shanuv000&repo=vk_blog&theme=tokyonight&hide_border=true" alt="vk_blog"/></a>
+<a href="https://github.com/shanuv000/vk_blog"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shanuv000&repo=vk_blog&theme=tokyonight&hide_border=true" alt="vk_blog"/></a>
 
 ### 💬 Memories — Social Media Platform
 > MERN stack · User authentication · Image upload · Likes, comments & sharing · Email notifications
 
-<a href="https://github.com/shanuv000/memories"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shanuv000&repo=memories&theme=tokyonight&hide_border=true" alt="memories"/></a>
+<a href="https://github.com/shanuv000/memories"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shanuv000&repo=memories&theme=tokyonight&hide_border=true" alt="memories"/></a>
 
 ### 📱 React Native Apps
 <p>
@@ -85,8 +85,8 @@ Backend-first engineer who ships production systems. I build with **Node.js**, *
 ## GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shanuv000&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanuv000&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shanuv000&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shanuv000&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 ---
